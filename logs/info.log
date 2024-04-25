@@ -1,0 +1,4 @@
+error: Apr-18-2024 16:36:20: 	unhandledRejection: SpanStatusCode is not defined
+ReferenceError: SpanStatusCode is not defined
+    at D:\Projects\LAB\Telemetry\app.js:45:42
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)

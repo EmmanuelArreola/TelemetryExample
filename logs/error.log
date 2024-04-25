@@ -1,0 +1,13 @@
+debug: Apr-18-2024 13:43:17: 	Records saved: OK
+error: Apr-18-2024 16:07:38: 	ReferenceError: response is not defined
+    at D:\Projects\LAB\Telemetry\app.js:32:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+error: Apr-18-2024 16:36:20: 	ReferenceError: SpanStatusCode is not defined
+    at D:\Projects\LAB\Telemetry\app.js:40:42
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+error: Apr-18-2024 16:36:20: 	unhandledRejection: SpanStatusCode is not defined
+ReferenceError: SpanStatusCode is not defined
+    at D:\Projects\LAB\Telemetry\app.js:45:42
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+debug: Apr-19-2024 11:31:27: 	undefined
+debug: Apr-19-2024 11:42:06: 	undefined
